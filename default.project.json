@@ -1,0 +1,33 @@
+{
+  "name": "CarSystem",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "CarSystem": {
+        "$path": "src/Shared/CarSystem"
+      }
+    },
+    
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$path": "src/Client"
+      }
+    },
+    
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$path": "src/Server"
+    },
+    
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": {
+        "FilteringEnabled": true
+      }
+    }
+  }
+}

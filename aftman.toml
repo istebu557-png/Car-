@@ -1,0 +1,5 @@
+# Aftman - Roblox Tool Manager
+# Bu dosya gerekli araçları otomatik yükler
+
+[tools]
+rojo = "rojo-rbx/rojo@7.4.1"
